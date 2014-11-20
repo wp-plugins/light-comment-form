@@ -14,6 +14,12 @@ Credits for the concept to Matt D. Smith (twitter: @mds)
 
 Transforms your old default comment form - to new one. ;)
 
+Let me know if you have any questions or comments.
+Write me:
+@karlis_upitis
+karlis@upitis.com
+
+
 = Features: =
 * uses less space;
 * looks simple & sexy;
